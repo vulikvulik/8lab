@@ -1,0 +1,20 @@
+# IntelliJ IDEA/VSCode
+.idea/
+*.iml
+.vscode/
+
+# Maven output folders
+/target/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Selenium WebDriver binaries
+*.exe
+*.dll
